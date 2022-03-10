@@ -1,4 +1,3 @@
-import {ReactComponent as GithubIcon } from './assets/img/github.svg';
 import {
   BrowserRouter,
   Routes,
